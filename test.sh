@@ -1,1 +1,1 @@
-
+ping stepik.org
